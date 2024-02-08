@@ -45,5 +45,10 @@ First you need extract object and behavior keyword list using GPT-4, then comput
 
 If you find our work useful, please consider citing:
 ```
-
+@article{wang2024mementos,
+  title={Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences},
+  author={Wang, Xiyao and Zhou, Yuhang and Liu, Xiaoyu and Lu, Hongjin and Xu, Yuancheng and He, Feihong and Yoon, Jaehong and Lu, Taixi and Bertasius, Gedas and Bansal, Mohit and others},
+  journal={arXiv preprint arXiv:2401.10529},
+  year={2024}
+}
 ```
